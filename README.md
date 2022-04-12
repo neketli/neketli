@@ -1,6 +1,6 @@
 ## 🖖 Hi, i'm Neketli
 #### And I'm a developer, let's get acquainted?
-![And I'm a developer, let's get acquainted?](https://i.ibb.co/126dMqS/Frame-1.png)
+![And I'm a developer, let's get acquainted?](https://i.ibb.co/zQCzS6S/description.png)
 
 A mere mortal who has been interested in computer science and web development since childhood. I am currently a front-end developer and web/front-end designer.
 
