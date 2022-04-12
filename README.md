@@ -8,8 +8,9 @@ I live in Rostov-on-Don, Russia
 
 ### Skills
 🦾 In frontend: HTML / CSS+SASS / JavaScript / VueJS  
-
+  
 👨‍💻 Other skills: Python / C# / Scala / SQL  | I like to develop in different directions :)  
+  
 💡 Design: UI/UX prototyping / Photoshop / Figma
 ***
 You can contact me at any time!
