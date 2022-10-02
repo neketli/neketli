@@ -27,8 +27,11 @@ Today I am a front-end developer in the ddos-guard team, while simultaneously st
 ![nuxtjs](https://img.shields.io/badge/nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<<<<<<< HEAD
+=======
 
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+>>>>>>> 562fde6 (Update profile)
 
 **_Styles_**
 
@@ -45,20 +48,29 @@ Today I am a front-end developer in the ddos-guard team, while simultaneously st
 
 **_Web_**
 
+<<<<<<< HEAD
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+=======
 ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+>>>>>>> 562fde6 (Update profile)
 
-**_Databases_**
+***Databases***
 
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
-![rabbit](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **_Hobby_** 💡
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![docker](https://img.shields.io/badge/docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![bash](https://img.shields.io/badge/GNU%20Bash-DD0B78?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-4C4A73?style=for-the-badge&logo=figma&logoColor=white)
