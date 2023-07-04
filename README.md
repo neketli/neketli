@@ -1,17 +1,28 @@
-# 🖖 Hi, i'm Neketli
+# 🖖 Hi, i'm Nikita
 
-### And I'm a developer, let's get acquainted?
+**_And I’m a software developer with a passion for something beautiful_**
 
-[![neketli](https://user-images.githubusercontent.com/48692866/191819442-10442d7f-ef83-44a2-8cb3-434fdf26bc0e.gif)](https://codepen.io/neketli/pen/ExLwYbZ)
+I'm choosing system methods to solve problems and try to be not just a guy with laptop, but a flexible software engineer.
 
-A mere mortal who has been interested in computer science and web development since childhood. I have a passion for creating high-quality and efficient code, constantly seeking innovative solutions to complex problems. I actively engage in learning new technologies and staying updated with the latest developments in the industry,trying to be not just a "coder", but a real software engineer.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC08D&vCenter=true&random=false&width=435&lines=Turning+ideas+into+code)
 
-Today I am a front-end developer in the ddos-guard team, while simultaneously studying new technologies and developing other projects (golang priority)
+## Stack 📚
 
-**Living in _Rostov-on-Don_, Russia**
+![html5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=orange)
+![css3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=skyblue)
+![js](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![ts](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue)
+![vuejs](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![nuxtjs](https://img.shields.io/badge/nuxtjs-black?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 
-### Skills
+![golang](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+![nodejs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)
+![postgres](https://img.shields.io/badge/postgreSQL-black?style=for-the-badge&logo=postgresql)
+![redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+![kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 
+<<<<<<< HEAD
 #### Frontend:muscle:
 
 **_Basics_**
@@ -74,17 +85,22 @@ Today I am a front-end developer in the ddos-guard team, while simultaneously st
 ![bash](https://img.shields.io/badge/GNU%20Bash-DD0B78?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-4C4A73?style=for-the-badge&logo=figma&logoColor=white)
+=======
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+>>>>>>> 3444c84 (Update profile readme)
 
 ---
 
 Let's be in touch!
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/neketli)
+[![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/neketli)
+[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nikita-li-462437256)
+[![habr](https://img.shields.io/badge/habr-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/neketli)
 
-**Some stats**
+### Some stats
 
-[![Code Wars](https://www.codewars.com/users/neketli/badges/large)](https://www.codewars.com/users/neketli/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=falt&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fneketli&logo=leetcode&logoColor=yellow)](https://leetcode.com/neketli/)
+[![Code Wars](https://www.codewars.com/users/neketli/badges/micro)](https://www.codewars.com/users/neketli/)
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fneketli&logo=leetcode&logoColor=yellow)](https://leetcode.com/neketli/)
-
-![GitHub](https://github-readme-stats.vercel.app/api?username=neketli&theme=tokyonight&show_icons=true)
+![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neketli&theme=dark)
